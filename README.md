@@ -35,11 +35,11 @@ Neste projeto, aprofundei meus conhecimentos na manipulação de Big Data com Pa
 - Testar a resiliência do modelo contra datasets de intrusão mais recentes.
 
 ## 🚀 Como Rodar o Projeto
-Como o dataset original possui gigabytes de tamanho, ele não está versionado neste repositório. Para executar:
+Para facilitar a execução e a avaliação, o dataset utilizado (focado no ataque Portmap e compactado em `portmap.zip`) já está incluso neste repositório.
 1. Clone o repositório.
 2. Instale as dependências listadas no `requirements.txt`.
-3. Baixe o dataset CICDDoS2019 e extraia na raiz do projeto.
-4. Execute o notebook localmente ou via Google Colab.
+3. Se estiver utilizando o Google Colab, basta fazer o upload do arquivo `portmap.zip` e do notebook para o ambiente. O código já está configurado para extrair e processar os dados automaticamente.
+4. Execute as células do notebook sequencialmente.
 
 ## 📸 Preview dos Resultados e Análises
 *(Insira aqui os prints do seu Colab: Gráficos de EDA, Matriz de Confusão e a Árvore de Decisão do XGBoost)*

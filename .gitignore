@@ -1,0 +1,22 @@
+# Ignorar bases de dados pesadas (Dataset CICDDoS2019)
+*.csv
+*.pcap
+*.parquet
+*.dat
+data/
+dataset/
+datasets/
+
+# Ignorar modelos exportados pesados
+*.pkl
+*.h5
+*.onnx
+*.joblib
+models/
+
+# Arquivos temporários do Python e Google Colab
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.env
+.venv/
