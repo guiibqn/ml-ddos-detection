@@ -41,5 +41,8 @@ Para facilitar a execução e a avaliação, o dataset utilizado (focado no ataq
 3. Se estiver utilizando o Google Colab, basta fazer o upload do arquivo `portmap.zip` e do notebook para o ambiente. O código já está configurado para extrair e processar os dados automaticamente.
 4. Execute as células do notebook sequencialmente.
 
+# Integrantes do Grupo
+Guilherme Augusto Boquimpani
+
 ## 📸 Preview dos Resultados e Análises
 *(prints do Colab: Gráficos de EDA, Matriz de Confusão e a Árvore de Decisão do XGBoost)*
