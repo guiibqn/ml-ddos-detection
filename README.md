@@ -42,4 +42,4 @@ Para facilitar a execução e a avaliação, o dataset utilizado (focado no ataq
 4. Execute as células do notebook sequencialmente.
 
 ## 📸 Preview dos Resultados e Análises
-*(Insira aqui os prints do seu Colab: Gráficos de EDA, Matriz de Confusão e a Árvore de Decisão do XGBoost)*
+*(prints do Colab: Gráficos de EDA, Matriz de Confusão e a Árvore de Decisão do XGBoost)*
