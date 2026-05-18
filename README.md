@@ -42,8 +42,8 @@ Para facilitar a execução e a avaliação, o dataset utilizado (focado no ataq
 4. Execute as células do notebook sequencialmente.
 
 # Integrantes do Grupo
-Guilherme Augusto Boquimpani
-Gustavo Santiago de Almeida
+Guilherme Augusto Boquimpani;
+Gustavo Santiago de Almeida;
 
 ## 📸 Preview dos Resultados e Análises
 *(prints do Colab: Gráficos de EDA, Matriz de Confusão e a Árvore de Decisão do XGBoost)*
