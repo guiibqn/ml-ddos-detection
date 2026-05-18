@@ -43,6 +43,7 @@ Para facilitar a execução e a avaliação, o dataset utilizado (focado no ataq
 
 # Integrantes do Grupo
 Guilherme Augusto Boquimpani
+Gustavo Santiago de Almeida
 
 ## 📸 Preview dos Resultados e Análises
 *(prints do Colab: Gráficos de EDA, Matriz de Confusão e a Árvore de Decisão do XGBoost)*
